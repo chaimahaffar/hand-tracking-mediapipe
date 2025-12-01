@@ -51,12 +51,4 @@ A basic computer vision project that implements a real-time hand tracking system
   <li>Exit program easily by pressing <b>Q</b></li>
 </ul>
 
----
-
-<h2>Demo</h2>
-
-<p align="center">
-  <img src="https://i.imgur.com/zFfX6oi.gif" height="60%" width="60%" alt="Hand Tracking Demo"/><br/>
-  <em>Real-time hand tracking with landmarks and FPS display</em>
-</p>
 
