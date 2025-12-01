@@ -41,14 +41,5 @@ A basic computer vision project that implements a real-time hand tracking system
   </tbody>
 </table>
 
----
-
-<h2>Features</h2>
-<ul>
-  <li>Real-time hand detection using webcam</li>
-  <li>Display of hand landmarks and skeleton connections</li>
-  <li>FPS calculation and display</li>
-  <li>Exit program easily by pressing <b>Q</b></li>
-</ul>
 
 
